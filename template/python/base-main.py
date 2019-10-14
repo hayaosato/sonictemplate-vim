@@ -2,8 +2,18 @@
 
 
 def main():
-	{{_cursor_}}
+    """
+    説明:
+
+    引数:
+
+    戻り値:
+
+    Raise:
+
+    """
+    {{_cursor_}}
+
 
 if __name__ == '__main__':
 	main()
-
